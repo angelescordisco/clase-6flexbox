@@ -1,0 +1,21 @@
+.formulario { width: 500px;
+background-color: #EDEDE9;
+padding: 20px;
+margin: auto;
+margin-top: 30px;
+border-radius: 5px;}
+
+.formulario h4 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 20px;}
+
+.datos{width: 100%;
+margin-bottom: 10px;
+padding: 5px;
+border: 1px;
+border-radius: 1px;}
+
+.boton {width: 100%;
+padding: 10px;
+margin-top: 15px;}
+
+.coment {margin-bottom: 5px;}
